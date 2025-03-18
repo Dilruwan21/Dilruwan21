@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif" style="width: 1000px; height: 400px; display: block; margin: 0 auto;" />
+<img src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif" style="width: 800px; height: 400px; display: block; margin: 0 auto;" />
 
 
 <h1 align="center">Hi 👋, I'm Anuradha Dilruwan</h1>
