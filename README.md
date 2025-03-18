@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuradha Dilruwan</h1>
-<h3 align="center">🚀 Software Engineering Enthusiast | 💻 Writing Code, 🧩 Solving Problems, 📈 Growing Daily</h3>
+<h3 align="left">🚀 Software Engineering Enthusiast | 💻 Writing Code, 🧩 Solving Problems, 📈 Growing Daily</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anuradhadilruwan&label=Profile%20views&color=0e75b6&style=flat" alt="anuradhadilruwan" /> </p>
 
