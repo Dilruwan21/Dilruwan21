@@ -20,7 +20,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="350" height='200' src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif">
+  <img align="center" alt="Coding" width="350" height='200' src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b53abf70703289.5be07ae53b185.gif">
 
   
   </td>
