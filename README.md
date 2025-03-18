@@ -20,7 +20,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="350" height='200' src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b53abf70703289.5be07ae53b185.gif">
+  <img align="center" alt="Coding" width="350" height='200' src="https://www.bing.com/images/search?view=detailV2&ccid=95%2bSGP%2bW&id=73D2435D888F548B9E6AB242DCD83CB75A567D23&thid=OIP.95-SGP-WgWUpyTnOrSiJJwHaHa&mediaurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fbGgsc5mWoryfgKBx1u%2fgiphy.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f79f9218ff96816529c939cead288927%3frik%3dI31WWrc82NxCsg%26pid%3dImgRaw%26r%3d0&exph=480&expw=480&q=software+engineering+programming+gifs&simid=608032271949844814&FORM=IRPRST&ck=12A23EC73EFA56B2C2D9056292C6A5B8&selectedIndex=23&itb=0">
 
   
   </td>
