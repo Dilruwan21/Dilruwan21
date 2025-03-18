@@ -1,4 +1,5 @@
-<img src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif" style="width: 200px; height: 200px;" />
+<img src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif" style="width: 200px; height: 200px; display: block; margin: 0 auto;" />
+
 
 <h1 align="center">Hi 👋, I'm Anuradha Dilruwan</h1>
 <h3 align="center">🚀 Software Engineering Enthusiast | 💻 Writing Code, 🧩 Solving Problems, 📈 Growing Daily</h3>
