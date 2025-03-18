@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuradha Dilruwan</h1>
 <h3 align="center">🚀 Software Engineering Enthusiast | 💻 Writing Code, 🧩 Solving Problems, 📈 Growing Daily</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuradhadilruwan&label=Profile%20views&color=0e75b6&style=flat" alt="anuradhadilruwan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anuradhadilruwan&label=Profile%20views&color=0e75b6&style=flat" alt="anuradhadilruwan" /> </p>
 
 - 🔭 I’m currently working on **Tea Factory Management Project**
 
