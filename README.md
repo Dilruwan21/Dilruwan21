@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **React,Node,MongoDB**
+- 💬 My Portfolio **https://my-portfolio-henna-phi-34.vercel.app/**
 
 - 📫 How to reach me **anuradhadilruwan5@gmail.com**
 
