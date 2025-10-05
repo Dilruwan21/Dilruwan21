@@ -9,7 +9,7 @@
 <table align="center">
   <tr border="none">
     <td width="50%" align="left">
-      🎓 Graduated from University of Plymouth with Second Class Upper Division<br>
+      🎓 BSc (Hons) Software Engineering | University of Plymouth, UK | Second Class Upper Division Graduate<br>
       💼 Currently working as a Freelance Software & Web Developer/Designer<br>
       ✅ Completed Tea Factory Management System Project<br>
       🟢 MERN Stack Specialist (MongoDB, Express, React, Node.js)<br>
